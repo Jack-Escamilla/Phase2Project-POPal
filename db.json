@@ -1,0 +1,70 @@
+{
+  "purchases": [
+    {
+      "id": 1,
+      "puchaseOrder": "4501457665",
+      "date": "2020-04-27",
+      "deliveryDate": "2020-04-27",
+      "description": "Bed Covers",
+      "color": "Burgundy",
+      "quantity": "3.00",
+      "amountNumber": "447.00"
+    },
+    {
+      "id": 2,
+      "purchaseOrder": "4501429631",
+      "date": ",2020-05-12",
+      "deliveryDate": "2020-05-15",
+      "description": "Bed Covers",
+      "color": "Burgundy Read Fern",
+      "quantity": "4.00",
+      "amountNumber": "596.00"
+    },
+    {
+      "id": 4,
+      "purchaseOrder": "4501363883",
+      "date": "2020-11-15",
+      "deliveryDate": "2020-11-25",
+      "description": "Arm Rests",
+      "color": "Burgundy Red Fern",
+      "quantity": "3.00",
+      "amountNumber": "447.00"
+    },
+    {
+      "purchaseOrder": "90909",
+      "date": "2023-05-19",
+      "deliveryDate": "2023-12-21",
+      "description": "Clothing",
+      "color": "Black",
+      "quantity": "5.00",
+      "amountNumber": "150.00",
+      "id": 5
+    },
+    {
+      "purchaseOrder": "123",
+      "date": "2023-12-18",
+      "deliveryDate": "2023-12-06",
+      "description": "Clothing",
+      "color": "black",
+      "quantity": "45",
+      "amountNumber": "45",
+      "id": 6
+    },
+    {
+      "purchaseOrder": "567",
+      "date": "2023-12-14",
+      "deliveryDate": "2023-12-20",
+      "description": "Clothing",
+      "color": "red",
+      "quantity": "45",
+      "amountNumber": "67",
+      "id": 7
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": ""
+    }
+  ]
+}
