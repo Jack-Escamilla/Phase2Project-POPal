@@ -1,19 +1,9 @@
 {
   "purchases": [
     {
-      "id": 1,
-      "puchaseOrder": "4501457665",
-      "date": "2020-04-27",
-      "deliveryDate": "2020-04-27",
-      "description": "Bed Covers",
-      "color": "Burgundy",
-      "quantity": "3.00",
-      "amountNumber": "447.00"
-    },
-    {
       "id": 2,
       "purchaseOrder": "4501429631",
-      "date": ",2020-05-12",
+      "date": "2020-05-12",
       "deliveryDate": "2020-05-15",
       "description": "Bed Covers",
       "color": "Burgundy Read Fern",
@@ -32,33 +22,53 @@
     },
     {
       "purchaseOrder": "90909",
-      "date": "2023-05-19",
-      "deliveryDate": "2023-12-21",
-      "description": "Clothing",
-      "color": "Black",
-      "quantity": "5.00",
-      "amountNumber": "150.00",
-      "id": 5
-    },
-    {
-      "purchaseOrder": "123",
-      "date": "2023-12-18",
-      "deliveryDate": "2023-12-06",
+      "date": "2023-12-15",
+      "deliveryDate": "2023-12-26",
       "description": "Clothing",
       "color": "black",
-      "quantity": "45",
-      "amountNumber": "45",
-      "id": 6
+      "quantity": "89",
+      "amountNumber": "99",
+      "id": 7
     },
     {
-      "purchaseOrder": "567",
-      "date": "2023-12-14",
-      "deliveryDate": "2023-12-20",
-      "description": "Clothing",
-      "color": "red",
-      "quantity": "45",
-      "amountNumber": "67",
-      "id": 7
+      "purchaseOrder": "4578345",
+      "date": "2023-01-09",
+      "deliveryDate": "2023-12-12",
+      "description": "Arm Rests",
+      "color": "Black",
+      "quantity": "4.00",
+      "amountNumber": "133.00",
+      "id": 9
+    },
+    {
+      "purchaseOrder": "67891234",
+      "date": "2023-01-09",
+      "deliveryDate": "2023-12-12",
+      "description": "V-Bed Covers",
+      "color": "Black",
+      "quantity": "3.00",
+      "amountNumber": "133.00",
+      "id": 10
+    },
+    {
+      "purchaseOrder": "789054109",
+      "date": "2023-09-14",
+      "deliveryDate": "2023-12-12",
+      "description": "V-Bed Covers",
+      "color": "Grey",
+      "quantity": "3.00",
+      "amountNumber": "135.00",
+      "id": 11
+    },
+    {
+      "purchaseOrder": "890253759",
+      "date": "2023-11-18",
+      "deliveryDate": "2023-12-04",
+      "description": "Arm Rests",
+      "color": "Black",
+      "quantity": "5.00",
+      "amountNumber": "300.00",
+      "id": 12
     }
   ],
   "users": [

@@ -12,7 +12,7 @@ function App() {
    <>
       <div>
            <div>
-            <h1>P.O. Pal</h1>
+            <h1 className="title">P.O. Pal</h1>
           </div>
           
     <BrowserRouter>

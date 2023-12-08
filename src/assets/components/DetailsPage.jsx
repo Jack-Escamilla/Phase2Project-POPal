@@ -27,7 +27,7 @@ function DetailsPage({}){
                 {purchase.amountNumber}
             </p> */}
 
-<table>
+<table className="table2">
       <tbody>
         <tr>
           <th>
@@ -46,7 +46,7 @@ function DetailsPage({}){
         </tbody>  
 </table>
 
-<table>
+<table className="table3">
     <tbody>
         <tr>
           <th>

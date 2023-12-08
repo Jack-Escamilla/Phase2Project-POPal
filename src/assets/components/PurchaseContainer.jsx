@@ -48,7 +48,7 @@ function deletePurchase(id){
 
 return(
 <div>
-    <button onClick={()=>{navigate("/")}}>Logout</button>
+    <button onClick={()=>{navigate("/")}} className="button3">Logout</button>
     <div>
         <Search setSearch={setSearch}/>
     </div>

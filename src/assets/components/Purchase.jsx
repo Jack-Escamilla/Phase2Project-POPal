@@ -8,11 +8,11 @@ function Purchase({purchase,deletePurchase}){
 
     const {id,purchaseOrder,date,description,amountNumber} = purchase
     return(
-    <tr>
-      <td>{purchaseOrder}</td>
-      <td>{date}</td>
-      <td>{description}</td>
-      <td>{amountNumber}</td>
+    <tr className="cells">
+      <td className="purchase">{purchaseOrder}</td>
+      <td className="date">{date}</td>
+      <td className="description">{description}</td>
+      <td className="amount">{amountNumber}</td>
       <td>
         <button onClick={()=>deletePurchase(id)}>Delete</button>
       </td>

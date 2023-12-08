@@ -16,9 +16,10 @@ function AddPurchaseForm({addPurchase}){
         
     }
     return (
-        <div className="ui segment">
+        <div className="add-form">
+        <h4>Add a New Order</h4>
       <form className="ui form" onSubmit={(e)=>submit(e)}>
-        <div className="inline fields">
+        <div className="forms">
           <input type="text" name="purchaseOrder" placeholder="Purchase Number"/>
           <input type="date" name="date"  />
           <input type="date" name="deliveryDate"  />
@@ -27,7 +28,7 @@ function AddPurchaseForm({addPurchase}){
           <input type="number" name="quantity" placeholder="Quantity" step="0.01" />
           <input type="number" name="amountNumber" placeholder="Amount" step="0.01" />
         </div>
-        <button className="ui button" type="submit">
+        <button className="button2" type="submit">
           Add Purchase Order
         </button>
       </form>
